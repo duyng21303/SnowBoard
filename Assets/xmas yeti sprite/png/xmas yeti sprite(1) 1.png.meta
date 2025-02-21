@@ -1,0 +1,3682 @@
+fileFormatVersion: 2
+guid: 3d3828250f40ae44aaf7c5be495ac2a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4459138344117323043
+    second: xmas yeti sprite(1)_0
+  - first:
+      213: -2095984505421526417
+    second: xmas yeti sprite(1)_1
+  - first:
+      213: 6950925273436749635
+    second: xmas yeti sprite(1)_2
+  - first:
+      213: -4269175057681707965
+    second: xmas yeti sprite(1)_3
+  - first:
+      213: -5974196110293433231
+    second: xmas yeti sprite(1)_4
+  - first:
+      213: -7821337302083525775
+    second: xmas yeti sprite(1)_5
+  - first:
+      213: -5422024424060744235
+    second: xmas yeti sprite(1)_6
+  - first:
+      213: 6125711482391848216
+    second: xmas yeti sprite(1)_7
+  - first:
+      213: -8603484123034020768
+    second: xmas yeti sprite(1)_8
+  - first:
+      213: 382299010218966082
+    second: xmas yeti sprite(1)_9
+  - first:
+      213: 3213015871086786661
+    second: xmas yeti sprite(1)_10
+  - first:
+      213: -2640192080816962483
+    second: xmas yeti sprite(1)_11
+  - first:
+      213: 4211970953411998169
+    second: xmas yeti sprite(1)_12
+  - first:
+      213: -2469571578234109215
+    second: xmas yeti sprite(1)_13
+  - first:
+      213: 354815655758111779
+    second: xmas yeti sprite(1)_14
+  - first:
+      213: -1972561577598827821
+    second: xmas yeti sprite(1)_15
+  - first:
+      213: -8489848843862664511
+    second: xmas yeti sprite(1)_16
+  - first:
+      213: 9028351703175983770
+    second: xmas yeti sprite(1)_17
+  - first:
+      213: -6905037045381597938
+    second: xmas yeti sprite(1)_18
+  - first:
+      213: 8101246774430162834
+    second: xmas yeti sprite(1)_19
+  - first:
+      213: -2077860660583423243
+    second: xmas yeti sprite(1)_20
+  - first:
+      213: -3225090544506942387
+    second: xmas yeti sprite(1)_21
+  - first:
+      213: -6637203873120194538
+    second: xmas yeti sprite(1)_22
+  - first:
+      213: -8786479135399473591
+    second: xmas yeti sprite(1)_23
+  - first:
+      213: -4645521596729090691
+    second: xmas yeti sprite(1)_24
+  - first:
+      213: 6127461437721886489
+    second: xmas yeti sprite(1)_25
+  - first:
+      213: 5199549819808503028
+    second: xmas yeti sprite(1)_26
+  - first:
+      213: 4662113534877116520
+    second: xmas yeti sprite(1)_27
+  - first:
+      213: -8010629200068680108
+    second: xmas yeti sprite(1)_28
+  - first:
+      213: -4121325949730184814
+    second: xmas yeti sprite(1)_29
+  - first:
+      213: 3704391955886084877
+    second: xmas yeti sprite(1)_30
+  - first:
+      213: -8077293142302297691
+    second: xmas yeti sprite(1)_31
+  - first:
+      213: 4393423369432081254
+    second: xmas yeti sprite(1)_32
+  - first:
+      213: 435542961485226987
+    second: xmas yeti sprite(1)_33
+  - first:
+      213: 8301514318692121266
+    second: xmas yeti sprite(1)_34
+  - first:
+      213: 4063590228842493671
+    second: xmas yeti sprite(1)_35
+  - first:
+      213: -1734131988840347483
+    second: xmas yeti sprite(1)_36
+  - first:
+      213: -3616377309114121420
+    second: xmas yeti sprite(1)_37
+  - first:
+      213: 5697091842661497718
+    second: xmas yeti sprite(1)_38
+  - first:
+      213: 4088661054250407855
+    second: xmas yeti sprite(1)_39
+  - first:
+      213: -6478713948056925846
+    second: xmas yeti sprite(1)_40
+  - first:
+      213: 5622101674868968644
+    second: xmas yeti sprite(1)_41
+  - first:
+      213: -648753922302722119
+    second: xmas yeti sprite(1)_42
+  - first:
+      213: -4888154782277282123
+    second: xmas yeti sprite(1)_43
+  - first:
+      213: 3565602649755258290
+    second: xmas yeti sprite(1)_44
+  - first:
+      213: -3222672790418374294
+    second: xmas yeti sprite(1)_45
+  - first:
+      213: -5420371307939186710
+    second: xmas yeti sprite(1)_46
+  - first:
+      213: 6784150966025137185
+    second: xmas yeti sprite(1)_47
+  - first:
+      213: -7388122695721092632
+    second: xmas yeti sprite(1)_48
+  - first:
+      213: 5187054205171146527
+    second: xmas yeti sprite(1)_49
+  - first:
+      213: -7985131595704045734
+    second: xmas yeti sprite(1)_50
+  - first:
+      213: 2193751607290321204
+    second: xmas yeti sprite(1)_51
+  - first:
+      213: 4322210713257001617
+    second: xmas yeti sprite(1)_52
+  - first:
+      213: -5670930241798716499
+    second: xmas yeti sprite(1)_53
+  - first:
+      213: -3183533000416712523
+    second: xmas yeti sprite(1)_54
+  - first:
+      213: -6175742699519863418
+    second: xmas yeti sprite(1)_55
+  - first:
+      213: 4601092227138863746
+    second: xmas yeti sprite(1)_56
+  - first:
+      213: -8410761775579656723
+    second: xmas yeti sprite(1)_57
+  - first:
+      213: 6691511039813898770
+    second: xmas yeti sprite(1)_58
+  - first:
+      213: 3663908219886911020
+    second: xmas yeti sprite(1)_59
+  - first:
+      213: -2716120160050850227
+    second: xmas yeti sprite(1)_60
+  - first:
+      213: 761869452133978192
+    second: xmas yeti sprite(1)_61
+  - first:
+      213: 3905329920652180691
+    second: xmas yeti sprite(1)_62
+  - first:
+      213: -36917511447159417
+    second: xmas yeti sprite(1)_63
+  - first:
+      213: 1226696756925309949
+    second: xmas yeti sprite(1)_64
+  - first:
+      213: -3641345184399309060
+    second: xmas yeti sprite(1)_65
+  - first:
+      213: 2293691888341245407
+    second: xmas yeti sprite(1)_66
+  - first:
+      213: 8688682721928491025
+    second: xmas yeti sprite(1)_67
+  - first:
+      213: 3052353521426445154
+    second: xmas yeti sprite(1)_68
+  - first:
+      213: -3907739845503978170
+    second: xmas yeti sprite(1)_69
+  - first:
+      213: -5923607764459202967
+    second: xmas yeti sprite(1)_70
+  - first:
+      213: 7032869555359968476
+    second: xmas yeti sprite(1)_71
+  - first:
+      213: 53156426868365743
+    second: xmas yeti sprite(1)_72
+  - first:
+      213: -1015761495351408286
+    second: xmas yeti sprite(1)_73
+  - first:
+      213: -5584502948926450452
+    second: xmas yeti sprite(1)_74
+  - first:
+      213: 5421754442219045042
+    second: xmas yeti sprite(1)_75
+  - first:
+      213: -3317480335117612584
+    second: xmas yeti sprite(1)_76
+  - first:
+      213: 6846311856905983249
+    second: xmas yeti sprite(1)_77
+  - first:
+      213: 6789917048224943904
+    second: xmas yeti sprite(1)_78
+  - first:
+      213: -7630944917237924853
+    second: xmas yeti sprite(1)_79
+  - first:
+      213: 5419732869124077457
+    second: xmas yeti sprite(1)_80
+  - first:
+      213: -7013208960352013600
+    second: xmas yeti sprite(1)_81
+  - first:
+      213: -4550568167445432232
+    second: xmas yeti sprite(1)_82
+  - first:
+      213: -4934585397653124563
+    second: xmas yeti sprite(1)_83
+  - first:
+      213: 113305250116700292
+    second: xmas yeti sprite(1)_84
+  - first:
+      213: -8966008493910289694
+    second: xmas yeti sprite(1)_85
+  - first:
+      213: 5613729814726955351
+    second: xmas yeti sprite(1)_86
+  - first:
+      213: -2838400824250684899
+    second: xmas yeti sprite(1)_87
+  - first:
+      213: 2269230785544189401
+    second: xmas yeti sprite(1)_88
+  - first:
+      213: 8225691160681625908
+    second: xmas yeti sprite(1)_89
+  - first:
+      213: 5462435810383467906
+    second: xmas yeti sprite(1)_90
+  - first:
+      213: 8883212982663899327
+    second: xmas yeti sprite(1)_91
+  - first:
+      213: -2377982334033017759
+    second: xmas yeti sprite(1)_92
+  - first:
+      213: -1421614428380584147
+    second: xmas yeti sprite(1)_93
+  - first:
+      213: -7718790199259464569
+    second: xmas yeti sprite(1)_94
+  - first:
+      213: -9086682449453680668
+    second: xmas yeti sprite(1)_95
+  - first:
+      213: 2952428837245612051
+    second: xmas yeti sprite(1)_96
+  - first:
+      213: -5279978950336809869
+    second: xmas yeti sprite(1)_97
+  - first:
+      213: -3925115513231515838
+    second: xmas yeti sprite(1)_98
+  - first:
+      213: -6966535850327273870
+    second: xmas yeti sprite(1)_99
+  - first:
+      213: -6799399133260343849
+    second: xmas yeti sprite(1)_100
+  - first:
+      213: -6992110765447058184
+    second: xmas yeti sprite(1)_101
+  - first:
+      213: -3098417132688487463
+    second: xmas yeti sprite(1)_102
+  - first:
+      213: 3948422002717279777
+    second: xmas yeti sprite(1)_103
+  - first:
+      213: 2273407199814314850
+    second: xmas yeti sprite(1)_104
+  - first:
+      213: 2019250425471526102
+    second: xmas yeti sprite(1)_105
+  - first:
+      213: -5664234834665294753
+    second: xmas yeti sprite(1)_106
+  - first:
+      213: 4794032103030854857
+    second: xmas yeti sprite(1)_107
+  - first:
+      213: -3140048973182775311
+    second: xmas yeti sprite(1)_108
+  - first:
+      213: -8738547167458171031
+    second: xmas yeti sprite(1)_109
+  - first:
+      213: 7260661100889082092
+    second: xmas yeti sprite(1)_110
+  - first:
+      213: 8492649496220815351
+    second: xmas yeti sprite(1)_111
+  - first:
+      213: -1561184745409498509
+    second: xmas yeti sprite(1)_112
+  - first:
+      213: -8458268000573395304
+    second: xmas yeti sprite(1)_113
+  - first:
+      213: -9001077785372010683
+    second: xmas yeti sprite(1)_114
+  - first:
+      213: -3204814748981532025
+    second: xmas yeti sprite(1)_115
+  - first:
+      213: -1435618796327243884
+    second: xmas yeti sprite(1)_116
+  - first:
+      213: -2366612671236520229
+    second: xmas yeti sprite(1)_117
+  - first:
+      213: -3499872559024901009
+    second: xmas yeti sprite(1)_118
+  - first:
+      213: -6322858388343289593
+    second: xmas yeti sprite(1)_119
+  - first:
+      213: 7147080370484136799
+    second: xmas yeti sprite(1)_120
+  - first:
+      213: -244406721788404827
+    second: xmas yeti sprite(1)_121
+  - first:
+      213: 7837162543181338581
+    second: xmas yeti sprite(1)_122
+  - first:
+      213: 5383408445635434476
+    second: xmas yeti sprite(1)_123
+  - first:
+      213: -8543359022687614981
+    second: xmas yeti sprite(1)_124
+  - first:
+      213: 3742334304995871415
+    second: xmas yeti sprite(1)_125
+  - first:
+      213: -6912293926985528746
+    second: xmas yeti sprite(1)_126
+  - first:
+      213: 2398062384286563226
+    second: xmas yeti sprite(1)_127
+  - first:
+      213: -1611733211439655355
+    second: xmas yeti sprite(1)_128
+  - first:
+      213: -6897993137191563613
+    second: xmas yeti sprite(1)_129
+  - first:
+      213: 6644430600801593145
+    second: xmas yeti sprite(1)_130
+  - first:
+      213: 329552829338507165
+    second: xmas yeti sprite(1)_131
+  - first:
+      213: -8368597920283108220
+    second: xmas yeti sprite(1)_132
+  - first:
+      213: -1372837107397471859
+    second: xmas yeti sprite(1)_133
+  - first:
+      213: 7017080319987869913
+    second: xmas yeti sprite(1)_134
+  - first:
+      213: 2826359582689792398
+    second: xmas yeti sprite(1)_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3247
+        width: 209
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cf6dc2ba02ed30800000000000000
+      internalID: 4459138344117323043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_1
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2535
+        width: 761
+        height: 883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -324.5, y: -176.5}
+        - {x: 299.5, y: -176.5}
+        - {x: 299.5, y: -149.5}
+        - {x: -324.5, y: -149.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a80a3823199e2e0800000000000000
+      internalID: -2095984505421526417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2921
+        width: 311
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7b7765b5a67060800000000000000
+      internalID: 6950925273436749635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3104
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8ce277e7d0c4c0800000000000000
+      internalID: -4269175057681707965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_4
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3096
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17480735a44671da0800000000000000
+      internalID: -5974196110293433231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3006
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173acc8b927057390800000000000000
+      internalID: -7821337302083525775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_6
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3053
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0e50738911c4b0800000000000000
+      internalID: -5422024424060744235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_7
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2997
+        width: 284
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156f784326e20550800000000000000
+      internalID: 6125711482391848216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_8
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3002
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06418d7f5c84a9880800000000000000
+      internalID: -8603484123034020768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_9
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3019
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb51e9ce23e4500800000000000000
+      internalID: 382299010218966082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_10
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2988
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f1d559ece69c20800000000000000
+      internalID: 3213015871086786661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2590
+        width: 298
+        height: 308
+      alignment: 9
+      pivot: {x: 0.7022889, y: 0.783796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -42, y: -101}
+        - {x: 12, y: -101}
+        - {x: 12, y: 29}
+        - {x: -42, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d440b147a472c5bd0800000000000000
+      internalID: -2640192080816962483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2878
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b262244de37a30800000000000000
+      internalID: 4211970953411998169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2884
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e284f3ebb15abdd0800000000000000
+      internalID: -2469571578234109215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2704
+        width: 189
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a53285fe8ce400800000000000000
+      internalID: 354815655758111779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2704
+        width: 189
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d243ad32bd00a4e0800000000000000
+      internalID: -1972561577598827821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_16
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2804
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1ec8257ffd2a80800000000000000
+      internalID: -8489848843862664511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2809
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f81f2a062b4d70800000000000000
+      internalID: 9028351703175983770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_18
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2773
+        width: 288
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fd1544616c20a0800000000000000
+      internalID: -6905037045381597938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2728
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f50b3e4096d6070800000000000000
+      internalID: 8101246774430162834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_20
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2731
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2aa29fcb4f923e0800000000000000
+      internalID: -2077860660583423243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_21
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2654
+        width: 94
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c413eac3d2e33d0800000000000000
+      internalID: -3225090544506942387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_22
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2664
+        width: 127
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f2d82e3ae3e3a0800000000000000
+      internalID: -6637203873120194538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_23
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2640
+        width: 79
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e022477c7201680800000000000000
+      internalID: -8786479135399473591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_24
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2643
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9e8688bac78fb0800000000000000
+      internalID: -4645521596729090691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_25
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2555
+        width: 79
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f315286bd190550800000000000000
+      internalID: 6127461437721886489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_26
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2557
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d1a14303882840800000000000000
+      internalID: 5199549819808503028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_27
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2552
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86824ec1f8723b040800000000000000
+      internalID: 4662113534877116520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_28
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2535
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e8864f2784d090800000000000000
+      internalID: -8010629200068680108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2470
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291abba62eb1ec6c0800000000000000
+      internalID: -4121325949730184814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2470
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03976f6bd4a86330800000000000000
+      internalID: 3704391955886084877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_31
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 2443
+        width: 574
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a17f52bea0b7ef80800000000000000
+      internalID: -8077293142302297691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_32
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2443
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66326e2f64398fc30800000000000000
+      internalID: 4393423369432081254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_33
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2426
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3afbf040c5b0600800000000000000
+      internalID: 435542961485226987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2095
+        width: 219
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba767f1a47e43370800000000000000
+      internalID: 8301514318692121266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2077
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b7e688c5c46830800000000000000
+      internalID: 4063590228842493671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2080
+        width: 223
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8878bd4202fe7e0800000000000000
+      internalID: -1734131988840347483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2082
+        width: 225
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433487c6ffb00ddc0800000000000000
+      internalID: -3616377309114121420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2075
+        width: 221
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3d9ea8d2201f40800000000000000
+      internalID: 5697091842661497718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_39
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2066
+        width: 216
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d191f097ddb830800000000000000
+      internalID: 4088661054250407855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_40
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2071
+        width: 213
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c2bc6dfbf616a0800000000000000
+      internalID: -6478713948056925846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2069
+        width: 208
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc81b5afa7b50e40800000000000000
+      internalID: 5622101674868968644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_42
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2073
+        width: 215
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3182beb92ff6f0800000000000000
+      internalID: -648753922302722119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_43
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2081
+        width: 220
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b65c33cf19c92cb0800000000000000
+      internalID: -4888154782277282123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_44
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2029
+        width: 121
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8ad4f7b09b7130800000000000000
+      internalID: 3565602649755258290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_45
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2063
+        width: 98
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61cbcbeb24c643d0800000000000000
+      internalID: -3222672790418374294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1782
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b0978309f6c4b0800000000000000
+      internalID: -5420371307939186710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1785
+        width: 186
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2d801c55262e50800000000000000
+      internalID: 6784150966025137185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_48
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1784
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9fa8c5d8d187990800000000000000
+      internalID: -7388122695721092632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_49
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1790
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f1ce1415e1cf740800000000000000
+      internalID: 5187054205171146527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_50
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1787
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fef49ee1d1f2190800000000000000
+      internalID: -7985131595704045734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1779
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4395bfdb675c17e10800000000000000
+      internalID: 2193751607290321204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_52
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1774
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19242106eb39bfb30800000000000000
+      internalID: 4322210713257001617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_53
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1772
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3419fadfecc41b0800000000000000
+      internalID: -5670930241798716499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_54
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1774
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ad6b6a91d1d3d0800000000000000
+      internalID: -3183533000416712523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_55
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1914
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68518ea3cba5b4aa0800000000000000
+      internalID: -6175742699519863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_56
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1750
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824c61c00d5adf30800000000000000
+      internalID: 4601092227138863746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1767
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded042c2ab8f64b80800000000000000
+      internalID: -8410761775579656723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_58
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1769
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21256ba66d50ddc50800000000000000
+      internalID: 6691511039813898770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_59
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1768
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3eff1d11d8d230800000000000000
+      internalID: 3663908219886911020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_60
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1775
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4654e4ea176e4ad0800000000000000
+      internalID: -2716120160050850227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_61
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1772
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050daabea34b29a00800000000000000
+      internalID: 761869452133978192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_62
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1764
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7d2b1fd4823630800000000000000
+      internalID: 3905329920652180691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_63
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1758
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d533c08b7dc7ff0800000000000000
+      internalID: -36917511447159417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_64
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1759
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df328ab733a160110800000000000000
+      internalID: 1226696756925309949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_65
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1757
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6cc43f8d7577dc0800000000000000
+      internalID: -3641345184399309060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1480
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd56c4be94d4df10800000000000000
+      internalID: 2293691888341245407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1466
+        width: 194
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103f96a6e6649870800000000000000
+      internalID: 8688682721928491025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1468
+        width: 189
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263398d0b532c5a20800000000000000
+      internalID: 3052353521426445154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1466
+        width: 199
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645781a805be4c9c0800000000000000
+      internalID: -3907739845503978170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_70
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1451
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d9a27f1e1bcda0800000000000000
+      internalID: -5923607764459202967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_71
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1479
+        width: 195
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce3ee4995c99160800000000000000
+      internalID: 7032869555359968476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_72
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1470
+        width: 187
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa994051d79dcb000800000000000000
+      internalID: 53156426868365743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_73
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1462
+        width: 187
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694f0d3d4a47e1f0800000000000000
+      internalID: -1015761495351408286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_74
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1484
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41e1ae72cdf72b0800000000000000
+      internalID: -5584502948926450452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_75
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1665
+        width: 118
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ccd380f0fd3b40800000000000000
+      internalID: 5421754442219045042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_76
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1368
+        width: 118
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d988f34631f5f1d0800000000000000
+      internalID: -3317480335117612584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_77
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1526
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151d6c4c5cf20f50800000000000000
+      internalID: 6846311856905983249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_78
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1525
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f01d1b491aa3e50800000000000000
+      internalID: 6789917048224943904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_79
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1533
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf57b3700791690800000000000000
+      internalID: -7630944917237924853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_80
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1540
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19736a95452c63b40800000000000000
+      internalID: 5419732869124077457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_81
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1500
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b1aeab931cae90800000000000000
+      internalID: -7013208960352013600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_82
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1508
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f6359c5229d0c0800000000000000
+      internalID: -4550568167445432232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_83
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1505
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4e03b9b4d48bb0800000000000000
+      internalID: -4934585397653124563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_84
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1450
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888460568a829100800000000000000
+      internalID: 113305250116700292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_85
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1462
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2975b57c6529380800000000000000
+      internalID: -8966008493910289694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_86
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1486
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d1df0689f7ed40800000000000000
+      internalID: 5613729814726955351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_87
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1389
+        width: 256
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aac542d79fb98d0800000000000000
+      internalID: -2838400824250684899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1461
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5fdb5606ded7f10800000000000000
+      internalID: 2269230785544189401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_89
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1454
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bf707786872270800000000000000
+      internalID: 8225691160681625908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_90
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1469
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859746ad687ecb40800000000000000
+      internalID: 5462435810383467906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1194
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e1d77423874b70800000000000000
+      internalID: 8883212982663899327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_92
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1179
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164cec19aa5bffed0800000000000000
+      internalID: -2377982334033017759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1190
+        width: 204
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272ecc9539654ce0800000000000000
+      internalID: -1421614428380584147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_94
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1176
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7f5da53951e490800000000000000
+      internalID: -7718790199259464569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_95
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1184
+        width: 219
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7798d947e95e180800000000000000
+      internalID: -9086682449453680668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_96
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1169
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f4a4826229f820800000000000000
+      internalID: 2952428837245612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_97
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1184
+        width: 228
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37472a38e1fb9b6b0800000000000000
+      internalID: -5279978950336809869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_98
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1171
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd573ac303789c0800000000000000
+      internalID: -3925115513231515838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_99
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1191
+        width: 232
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e083eed84e15f90800000000000000
+      internalID: -6966535850327273870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_100
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1180
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51be7538ea3a1a0800000000000000
+      internalID: -6799399133260343849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_101
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1177
+        width: 227
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce75bfd4807fe90800000000000000
+      internalID: -6992110765447058184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_102
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1179
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db4e10b8063005d0800000000000000
+      internalID: -3098417132688487463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_103
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1157
+        width: 223
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cc4f44ec9bc630800000000000000
+      internalID: 3948422002717279777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_104
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1172
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6fbe9dc3cc8f10800000000000000
+      internalID: 2273407199814314850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_105
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1171
+        width: 288
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d469c24091d50c10800000000000000
+      internalID: 2019250425471526102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_106
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 1163
+        width: 291
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b163ad689461b0800000000000000
+      internalID: -5664234834665294753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_107
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1174
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c419fe3cc2d78240800000000000000
+      internalID: 4794032103030854857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_108
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1173
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4c18781e4c64d0800000000000000
+      internalID: -3140048973182775311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_109
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1165
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e8a666a17ab680800000000000000
+      internalID: -8738547167458171031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 883
+        width: 197
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce88df87dcc03c460800000000000000
+      internalID: 7260661100889082092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 882
+        width: 213
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff442888b3fbd570800000000000000
+      internalID: 8492649496220815351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_112
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 887
+        width: 257
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372bb1ddebe855ae0800000000000000
+      internalID: -1561184745409498509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_113
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 868
+        width: 189
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee4ca31123e9a80800000000000000
+      internalID: -8458268000573395304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_114
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 873
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547dd37a17fb51380800000000000000
+      internalID: -9001077785372010683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_115
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 871
+        width: 183
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae50437f53683d0800000000000000
+      internalID: -3204814748981532025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_116
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 874
+        width: 185
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6a0c9f48a31ce0800000000000000
+      internalID: -1435618796327243884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_117
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 872
+        width: 185
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6420a705a182fd0800000000000000
+      internalID: -2366612671236520229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_118
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 887
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64fe206374fd6fc0800000000000000
+      internalID: -3499872559024901009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_119
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 950
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70903b5bbc1b048a0800000000000000
+      internalID: -6322858388343289593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_120
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1013
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bcfd7eab78f2360800000000000000
+      internalID: 7147080370484136799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_121
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 953
+        width: 81
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9517a161bb9cf0800000000000000
+      internalID: -244406721788404827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_122
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 962
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d712595fc133cc60800000000000000
+      internalID: 7837162543181338581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_123
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 960
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce710f27575b5ba40800000000000000
+      internalID: 5383408445635434476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_124
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 963
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78318cb34ef6980800000000000000
+      internalID: -8543359022687614981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_125
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 961
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba890009317fe330800000000000000
+      internalID: 3742334304995871415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_126
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 833
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a00fadb499210a0800000000000000
+      internalID: -6912293926985528746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_127
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 952
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b70a47801a74120800000000000000
+      internalID: 2398062384286563226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_128
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 950
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546907bfe29f1a9e0800000000000000
+      internalID: -1611733211439655355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_129
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 868
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4d92f9c76540a0800000000000000
+      internalID: -6897993137191563613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_130
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 869
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937a38f7d62c53c50800000000000000
+      internalID: 6644430600801593145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_131
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 872
+        width: 83
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97527f5d8ec29400800000000000000
+      internalID: 329552829338507165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_132
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 871
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd37db784ccdb80800000000000000
+      internalID: -8368597920283108220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_133
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 702
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815917ace3b2fce0800000000000000
+      internalID: -1372837107397471859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_134
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 715
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8e2497f5da16160800000000000000
+      internalID: 7017080319987869913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_135
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 0
+        width: 1494
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e811fb5d01f393720800000000000000
+      internalID: 2826359582689792398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas yeti sprite(1)_136
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 874
+        width: 2098
+        height: 1531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73834662e15119e4b8d00380cfb5bc4c
+      internalID: -954092946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c4ad46b836019b3469854dc4681b8020
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      xmas yeti sprite(1)_0: 4459138344117323043
+      xmas yeti sprite(1)_1: -2095984505421526417
+      xmas yeti sprite(1)_10: 3213015871086786661
+      xmas yeti sprite(1)_100: -6799399133260343849
+      xmas yeti sprite(1)_101: -6992110765447058184
+      xmas yeti sprite(1)_102: -3098417132688487463
+      xmas yeti sprite(1)_103: 3948422002717279777
+      xmas yeti sprite(1)_104: 2273407199814314850
+      xmas yeti sprite(1)_105: 2019250425471526102
+      xmas yeti sprite(1)_106: -5664234834665294753
+      xmas yeti sprite(1)_107: 4794032103030854857
+      xmas yeti sprite(1)_108: -3140048973182775311
+      xmas yeti sprite(1)_109: -8738547167458171031
+      xmas yeti sprite(1)_11: -2640192080816962483
+      xmas yeti sprite(1)_110: 7260661100889082092
+      xmas yeti sprite(1)_111: 8492649496220815351
+      xmas yeti sprite(1)_112: -1561184745409498509
+      xmas yeti sprite(1)_113: -8458268000573395304
+      xmas yeti sprite(1)_114: -9001077785372010683
+      xmas yeti sprite(1)_115: -3204814748981532025
+      xmas yeti sprite(1)_116: -1435618796327243884
+      xmas yeti sprite(1)_117: -2366612671236520229
+      xmas yeti sprite(1)_118: -3499872559024901009
+      xmas yeti sprite(1)_119: -6322858388343289593
+      xmas yeti sprite(1)_12: 4211970953411998169
+      xmas yeti sprite(1)_120: 7147080370484136799
+      xmas yeti sprite(1)_121: -244406721788404827
+      xmas yeti sprite(1)_122: 7837162543181338581
+      xmas yeti sprite(1)_123: 5383408445635434476
+      xmas yeti sprite(1)_124: -8543359022687614981
+      xmas yeti sprite(1)_125: 3742334304995871415
+      xmas yeti sprite(1)_126: -6912293926985528746
+      xmas yeti sprite(1)_127: 2398062384286563226
+      xmas yeti sprite(1)_128: -1611733211439655355
+      xmas yeti sprite(1)_129: -6897993137191563613
+      xmas yeti sprite(1)_13: -2469571578234109215
+      xmas yeti sprite(1)_130: 6644430600801593145
+      xmas yeti sprite(1)_131: 329552829338507165
+      xmas yeti sprite(1)_132: -8368597920283108220
+      xmas yeti sprite(1)_133: -1372837107397471859
+      xmas yeti sprite(1)_134: 7017080319987869913
+      xmas yeti sprite(1)_135: 2826359582689792398
+      xmas yeti sprite(1)_136: -954092946
+      xmas yeti sprite(1)_14: 354815655758111779
+      xmas yeti sprite(1)_15: -1972561577598827821
+      xmas yeti sprite(1)_16: -8489848843862664511
+      xmas yeti sprite(1)_17: 9028351703175983770
+      xmas yeti sprite(1)_18: -6905037045381597938
+      xmas yeti sprite(1)_19: 8101246774430162834
+      xmas yeti sprite(1)_2: 6950925273436749635
+      xmas yeti sprite(1)_20: -2077860660583423243
+      xmas yeti sprite(1)_21: -3225090544506942387
+      xmas yeti sprite(1)_22: -6637203873120194538
+      xmas yeti sprite(1)_23: -8786479135399473591
+      xmas yeti sprite(1)_24: -4645521596729090691
+      xmas yeti sprite(1)_25: 6127461437721886489
+      xmas yeti sprite(1)_26: 5199549819808503028
+      xmas yeti sprite(1)_27: 4662113534877116520
+      xmas yeti sprite(1)_28: -8010629200068680108
+      xmas yeti sprite(1)_29: -4121325949730184814
+      xmas yeti sprite(1)_3: -4269175057681707965
+      xmas yeti sprite(1)_30: 3704391955886084877
+      xmas yeti sprite(1)_31: -8077293142302297691
+      xmas yeti sprite(1)_32: 4393423369432081254
+      xmas yeti sprite(1)_33: 435542961485226987
+      xmas yeti sprite(1)_34: 8301514318692121266
+      xmas yeti sprite(1)_35: 4063590228842493671
+      xmas yeti sprite(1)_36: -1734131988840347483
+      xmas yeti sprite(1)_37: -3616377309114121420
+      xmas yeti sprite(1)_38: 5697091842661497718
+      xmas yeti sprite(1)_39: 4088661054250407855
+      xmas yeti sprite(1)_4: -5974196110293433231
+      xmas yeti sprite(1)_40: -6478713948056925846
+      xmas yeti sprite(1)_41: 5622101674868968644
+      xmas yeti sprite(1)_42: -648753922302722119
+      xmas yeti sprite(1)_43: -4888154782277282123
+      xmas yeti sprite(1)_44: 3565602649755258290
+      xmas yeti sprite(1)_45: -3222672790418374294
+      xmas yeti sprite(1)_46: -5420371307939186710
+      xmas yeti sprite(1)_47: 6784150966025137185
+      xmas yeti sprite(1)_48: -7388122695721092632
+      xmas yeti sprite(1)_49: 5187054205171146527
+      xmas yeti sprite(1)_5: -7821337302083525775
+      xmas yeti sprite(1)_50: -7985131595704045734
+      xmas yeti sprite(1)_51: 2193751607290321204
+      xmas yeti sprite(1)_52: 4322210713257001617
+      xmas yeti sprite(1)_53: -5670930241798716499
+      xmas yeti sprite(1)_54: -3183533000416712523
+      xmas yeti sprite(1)_55: -6175742699519863418
+      xmas yeti sprite(1)_56: 4601092227138863746
+      xmas yeti sprite(1)_57: -8410761775579656723
+      xmas yeti sprite(1)_58: 6691511039813898770
+      xmas yeti sprite(1)_59: 3663908219886911020
+      xmas yeti sprite(1)_6: -5422024424060744235
+      xmas yeti sprite(1)_60: -2716120160050850227
+      xmas yeti sprite(1)_61: 761869452133978192
+      xmas yeti sprite(1)_62: 3905329920652180691
+      xmas yeti sprite(1)_63: -36917511447159417
+      xmas yeti sprite(1)_64: 1226696756925309949
+      xmas yeti sprite(1)_65: -3641345184399309060
+      xmas yeti sprite(1)_66: 2293691888341245407
+      xmas yeti sprite(1)_67: 8688682721928491025
+      xmas yeti sprite(1)_68: 3052353521426445154
+      xmas yeti sprite(1)_69: -3907739845503978170
+      xmas yeti sprite(1)_7: 6125711482391848216
+      xmas yeti sprite(1)_70: -5923607764459202967
+      xmas yeti sprite(1)_71: 7032869555359968476
+      xmas yeti sprite(1)_72: 53156426868365743
+      xmas yeti sprite(1)_73: -1015761495351408286
+      xmas yeti sprite(1)_74: -5584502948926450452
+      xmas yeti sprite(1)_75: 5421754442219045042
+      xmas yeti sprite(1)_76: -3317480335117612584
+      xmas yeti sprite(1)_77: 6846311856905983249
+      xmas yeti sprite(1)_78: 6789917048224943904
+      xmas yeti sprite(1)_79: -7630944917237924853
+      xmas yeti sprite(1)_8: -8603484123034020768
+      xmas yeti sprite(1)_80: 5419732869124077457
+      xmas yeti sprite(1)_81: -7013208960352013600
+      xmas yeti sprite(1)_82: -4550568167445432232
+      xmas yeti sprite(1)_83: -4934585397653124563
+      xmas yeti sprite(1)_84: 113305250116700292
+      xmas yeti sprite(1)_85: -8966008493910289694
+      xmas yeti sprite(1)_86: 5613729814726955351
+      xmas yeti sprite(1)_87: -2838400824250684899
+      xmas yeti sprite(1)_88: 2269230785544189401
+      xmas yeti sprite(1)_89: 8225691160681625908
+      xmas yeti sprite(1)_9: 382299010218966082
+      xmas yeti sprite(1)_90: 5462435810383467906
+      xmas yeti sprite(1)_91: 8883212982663899327
+      xmas yeti sprite(1)_92: -2377982334033017759
+      xmas yeti sprite(1)_93: -1421614428380584147
+      xmas yeti sprite(1)_94: -7718790199259464569
+      xmas yeti sprite(1)_95: -9086682449453680668
+      xmas yeti sprite(1)_96: 2952428837245612051
+      xmas yeti sprite(1)_97: -5279978950336809869
+      xmas yeti sprite(1)_98: -3925115513231515838
+      xmas yeti sprite(1)_99: -6966535850327273870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
