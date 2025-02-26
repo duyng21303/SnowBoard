@@ -17,7 +17,7 @@ public class SnowmanController : MonoBehaviour
 
 	void Update()
 	{
-		rb2d.velocity = new Vector2(-moveSpeed, rb2d.velocity.y);
+		rb2d.linearVelocity = new Vector2(-moveSpeed, rb2d.linearVelocity.y);
 	}
 
 	private void OnCollisionEnter2D(Collision2D collision)

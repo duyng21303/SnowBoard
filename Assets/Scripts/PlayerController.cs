@@ -42,7 +42,7 @@ public class PlayerController : MonoBehaviour
 	void Jump()
 	{
 		// Xóa vận tốc theo trục Y để đảm bảo nhảy đồng đều
-		rb2d.velocity = new Vector2(rb2d.velocity.x, 0f);
+		rb2d.linearVelocity = new Vector2(rb2d.linearVelocity.x, 0f);
 		rb2d.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 		isGrounded = false;
 	}
