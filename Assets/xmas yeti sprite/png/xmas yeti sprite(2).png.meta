@@ -444,6 +444,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3032,7 +3110,126 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xmas yeti sprite(2)_0: -6754683999166761072
+      xmas yeti sprite(2)_1: -8818355451935519958
+      xmas yeti sprite(2)_10: -6565493054185740391
+      xmas yeti sprite(2)_100: 9088507368001471807
+      xmas yeti sprite(2)_101: 8470105956026519202
+      xmas yeti sprite(2)_102: -1628246929970515115
+      xmas yeti sprite(2)_103: 604943311715942241
+      xmas yeti sprite(2)_104: -790742458728530261
+      xmas yeti sprite(2)_105: 2803990088431765997
+      xmas yeti sprite(2)_106: -1515250819214927502
+      xmas yeti sprite(2)_107: 2587825290411701065
+      xmas yeti sprite(2)_108: -5461585757757742100
+      xmas yeti sprite(2)_109: -6836537911986686351
+      xmas yeti sprite(2)_11: -1009276607804779039
+      xmas yeti sprite(2)_110: -2347451521933604149
+      xmas yeti sprite(2)_111: 5237204578716792146
+      xmas yeti sprite(2)_112: 6096879750085572337
+      xmas yeti sprite(2)_113: 6426716029046042178
+      xmas yeti sprite(2)_114: 5396931386941751837
+      xmas yeti sprite(2)_115: -5382037405770624972
+      xmas yeti sprite(2)_116: 7514928084449116049
+      xmas yeti sprite(2)_12: -3671709706504088640
+      xmas yeti sprite(2)_13: -1522024624750301404
+      xmas yeti sprite(2)_14: -4556041340811753559
+      xmas yeti sprite(2)_15: 287003636796136907
+      xmas yeti sprite(2)_16: -964889691819036965
+      xmas yeti sprite(2)_17: 7549934297952529701
+      xmas yeti sprite(2)_18: -4181020582067994095
+      xmas yeti sprite(2)_19: -6595414536825751760
+      xmas yeti sprite(2)_2: -5252414933467350125
+      xmas yeti sprite(2)_20: -8308484745740710468
+      xmas yeti sprite(2)_21: 4313308297062946659
+      xmas yeti sprite(2)_22: -8993397224651911902
+      xmas yeti sprite(2)_23: 9054834198227272521
+      xmas yeti sprite(2)_24: -7703763513761004042
+      xmas yeti sprite(2)_25: 1351249794216414228
+      xmas yeti sprite(2)_26: -7855010877745585883
+      xmas yeti sprite(2)_27: 5857797446389314722
+      xmas yeti sprite(2)_28: 8520850840294181556
+      xmas yeti sprite(2)_29: 4273545182890412341
+      xmas yeti sprite(2)_3: 1599533202988032877
+      xmas yeti sprite(2)_30: -5913513293236627872
+      xmas yeti sprite(2)_31: -4635491389305326561
+      xmas yeti sprite(2)_32: -2287413117338937167
+      xmas yeti sprite(2)_33: 2991077268357744447
+      xmas yeti sprite(2)_34: 1686573000968541146
+      xmas yeti sprite(2)_35: -1466790976865962935
+      xmas yeti sprite(2)_36: 6508200611779638199
+      xmas yeti sprite(2)_37: 3582377205062750717
+      xmas yeti sprite(2)_38: 4714902936503716017
+      xmas yeti sprite(2)_39: 1114668706564302473
+      xmas yeti sprite(2)_4: -8669904151087478018
+      xmas yeti sprite(2)_40: 1150693370472049273
+      xmas yeti sprite(2)_41: -6042200217646124380
+      xmas yeti sprite(2)_42: -510830775129059580
+      xmas yeti sprite(2)_43: -7328365876796922482
+      xmas yeti sprite(2)_44: -8629906388869383853
+      xmas yeti sprite(2)_45: -8499351105510505937
+      xmas yeti sprite(2)_46: -4490822805053412384
+      xmas yeti sprite(2)_47: 7582211219538505214
+      xmas yeti sprite(2)_48: -4372939124430176210
+      xmas yeti sprite(2)_49: 1994887481395030175
+      xmas yeti sprite(2)_5: -4529197998183753709
+      xmas yeti sprite(2)_50: -1935576344912356240
+      xmas yeti sprite(2)_51: -2451016910579238662
+      xmas yeti sprite(2)_52: 554634260958271714
+      xmas yeti sprite(2)_53: -6724137667402430705
+      xmas yeti sprite(2)_54: 1265025061252587975
+      xmas yeti sprite(2)_55: -4496245182210680535
+      xmas yeti sprite(2)_56: -3507445085810130015
+      xmas yeti sprite(2)_57: 2913676523000463177
+      xmas yeti sprite(2)_58: 6863254429897624169
+      xmas yeti sprite(2)_59: -6942151228613344197
+      xmas yeti sprite(2)_6: -2896755224200669293
+      xmas yeti sprite(2)_60: 4065226600388249133
+      xmas yeti sprite(2)_61: -4086766175099466492
+      xmas yeti sprite(2)_62: 5828889390767118006
+      xmas yeti sprite(2)_63: 1345382669373029141
+      xmas yeti sprite(2)_64: -656633598837428681
+      xmas yeti sprite(2)_65: -7633725419292865899
+      xmas yeti sprite(2)_66: -2342724557143448822
+      xmas yeti sprite(2)_67: -2305136793992251606
+      xmas yeti sprite(2)_68: -4432388381535561092
+      xmas yeti sprite(2)_69: 6520373804088534303
+      xmas yeti sprite(2)_7: -5057666826690523120
+      xmas yeti sprite(2)_70: 365377715731806047
+      xmas yeti sprite(2)_71: -1753057357514701284
+      xmas yeti sprite(2)_72: 3433734390815560775
+      xmas yeti sprite(2)_73: 8346783703262075614
+      xmas yeti sprite(2)_74: -5160824887468078212
+      xmas yeti sprite(2)_75: -611929166837246407
+      xmas yeti sprite(2)_76: 3617460993097411894
+      xmas yeti sprite(2)_77: 6750862567160990626
+      xmas yeti sprite(2)_78: 4218020809667099977
+      xmas yeti sprite(2)_79: -2326276456972532017
+      xmas yeti sprite(2)_8: 3941957759468776699
+      xmas yeti sprite(2)_80: -8662528928731194377
+      xmas yeti sprite(2)_81: 1349575115254796951
+      xmas yeti sprite(2)_82: -8866727815910363524
+      xmas yeti sprite(2)_83: 1300439992515611659
+      xmas yeti sprite(2)_84: 6793834513668705719
+      xmas yeti sprite(2)_85: 2201038781674038460
+      xmas yeti sprite(2)_86: 3879440707902937741
+      xmas yeti sprite(2)_87: 452259769106005581
+      xmas yeti sprite(2)_88: -435261452923102978
+      xmas yeti sprite(2)_89: -1986702384833815523
+      xmas yeti sprite(2)_9: -7760910365428792940
+      xmas yeti sprite(2)_90: -7728555601525406579
+      xmas yeti sprite(2)_91: 764582457283558644
+      xmas yeti sprite(2)_92: 6219366908398606966
+      xmas yeti sprite(2)_93: 9103837815797493667
+      xmas yeti sprite(2)_94: -5428512982921818359
+      xmas yeti sprite(2)_95: 9183795069374220795
+      xmas yeti sprite(2)_96: 7505758278536756441
+      xmas yeti sprite(2)_97: 8387769728191215880
+      xmas yeti sprite(2)_98: -548157194306438735
+      xmas yeti sprite(2)_99: 8385926244586348273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
