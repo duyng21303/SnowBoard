@@ -5,12 +5,14 @@ public class SnowmanController : MonoBehaviour
 {
 	[SerializeField] float moveSpeed = 2f;
 	bool isGrounded = true;
-
+	CrushDetector crush;
 	Rigidbody2D rb2d;
 	[SerializeField] float loadDelay = 0.5f;  // ◄◄ "1/2 Second" Delay ◄◄
 	[SerializeField] ParticleSystem crushEffect;
 	[SerializeField] AudioClip crushSFX;
-	void Start()
+    private bool scored = false;
+
+    void Start()
 	{
 		rb2d = GetComponent<Rigidbody2D>();
 	}
@@ -28,9 +30,11 @@ public class SnowmanController : MonoBehaviour
 			FindAnyObjectByType<PlayerController>().DisableControls();
 			GetComponent<AudioSource>().PlayOneShot(crushSFX);
 			Invoke("ReloadScene", loadDelay);
-
-		}
-	}
+            var crush = collision.gameObject.GetComponent<CrushDetector>();
+            crush.GetEffect();
+        }
+       
+    }
 	void ReloadScene()
 	{
 		// ▼ "LoadScene()" Built-In Method

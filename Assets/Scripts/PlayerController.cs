@@ -12,29 +12,56 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] float jumpForce = 10f;
 	bool isGrounded = true;
 	bool canMove = true;
-
-	void Start()
+    bool hasSpun = false;     
+    float totalSpin = 0f;    
+    float lastAngle = 0f;
+    void Start()
 	{
 		rb2d = GetComponent<Rigidbody2D>();
 		surfaceEffector2D = FindObjectOfType<SurfaceEffector2D>();
 	}
 
-	void Update()
-	{
-		if (canMove)
-		{
-			RotatePlayer();
-			RespondToBoost();
-		}
+    void Update()
+    {
+        if (canMove)
+        {
+            RotatePlayer();
+            RespondToBoost();
+        }
 
-		// Chỉ cho phép nhảy khi đang chạm đất
-		if (canMove && isGrounded && Input.GetKeyDown(KeyCode.Space))
-		{
-			Jump();
-		}
-	}
+        // Kiểm tra nhảy
+        if (canMove && isGrounded && Input.GetKeyDown(KeyCode.Space))
+        {
+            Jump();
+        }
 
-	public void DisableControls()
+        // Đo độ xoay khi đang bay
+        if (!isGrounded)
+        {
+            float currentAngle = transform.eulerAngles.z;
+            // DeltaAngle tính chênh lệch góc (có tính đến vòng xoay 0-360)
+            float delta = Mathf.DeltaAngle(lastAngle, currentAngle);
+            totalSpin += delta;
+            lastAngle = currentAngle;
+
+            // Nếu tổng tuyệt đối >= 360 và chưa cộng điểm 
+            if (Mathf.Abs(totalSpin) >= 360f && !hasSpun)
+            {
+                // Cộng 100 điểm
+                ScoreController.instance.AddScore(100);
+                hasSpun = true;
+            }
+        }
+        else
+        {
+            // Nếu Player đang ở trên mặt đất, reset biến
+            totalSpin = 0f;
+            lastAngle = transform.eulerAngles.z;
+            hasSpun = false;
+        }
+    }
+
+    public void DisableControls()
 	{
 		canMove = false;
 	}

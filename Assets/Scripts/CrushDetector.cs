@@ -52,12 +52,15 @@ public class CrushDetector : MonoBehaviour
         }
    }
 
+    public void GetEffect()
+    {
+        crushEffect.Play();
+    }
 
-
-   // ▬ "ReloadScene()" Method 
-   //       → to "Reload" the "Level 1" Scene
-   //       → when he "Player Hits" the "Ground" ▬
-   void ReloadScene()
+    // ▬ "ReloadScene()" Method 
+    //       → to "Reload" the "Level 1" Scene
+    //       → when he "Player Hits" the "Ground" ▬
+    void ReloadScene()
    {
         // ▼ "LoadScene()" Built-In Method
         //      → from the "SceneManager" Class 
