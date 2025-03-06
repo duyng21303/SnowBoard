@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     SurfaceEffector2D surfaceEffector2D;
 
     [SerializeField] float torqueAmount = 1f;
-    [SerializeField] float airTorqueMultiplier = 2f; // Hệ số xoay trên không
+    [SerializeField] float airTorqueMultiplier = 1f; // Hệ số xoay trên không
     [SerializeField] float baseSpeed = 20f;
     [SerializeField] float boostSpeed = 30f;
     [SerializeField] float jumpForce = 10f;
