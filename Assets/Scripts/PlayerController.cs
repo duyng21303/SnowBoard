@@ -7,15 +7,15 @@ public class PlayerController : MonoBehaviour
 	Rigidbody2D rb2d;
 	SurfaceEffector2D surfaceEffector2D;
 
-	[SerializeField] float torqueAmount = 1f;
-	[SerializeField] float airTorqueMultiplier = 2f; // Hệ số xoay trên không
-	[SerializeField] float baseSpeed = 20f;
-	[SerializeField] float boostSpeed = 30f;
-	[SerializeField] float jumpForce = 10f;
-	[SerializeField] float accelerationRate = 2f;
-	[SerializeField] float maxSlopeAngle = 45f;
-	[SerializeField] float spinSpeedPenalty = 5f;
-	[SerializeField] LayerMask groundLayer;
+    [SerializeField] float torqueAmount = 1f;
+    [SerializeField] float airTorqueMultiplier = 1f; // Hệ số xoay trên không
+    [SerializeField] float baseSpeed = 20f;
+    [SerializeField] float boostSpeed = 30f;
+    [SerializeField] float jumpForce = 10f;
+    [SerializeField] float accelerationRate = 2f;
+    [SerializeField] float maxSlopeAngle = 45f;
+    [SerializeField] float spinSpeedPenalty = 5f;
+    [SerializeField] LayerMask groundLayer;
 
 	private GameManager gameManager;
 	private AudioManager audioManager;
