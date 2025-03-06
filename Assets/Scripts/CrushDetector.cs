@@ -17,13 +17,19 @@ public class CrushDetector : MonoBehaviour
     // ▼ "Set Variable" 
     //      → to "Avoid Double Sounds & Particles Effect" 
     //      → when "Player Hits" the "Ground" ▼
-    bool hasCrushed = false; 
+    bool hasCrushed = false;
 
+    private int finalScore = 0; // Biến lưu điểm của player khi chết
 
-   // ▬ "On Tregger Enter 2D()" Method 
-  //       → with a "Delay" of "2 Seconds"
-   //      → to "Call" the "ReloadScene()" Method ▬
-   void OnTriggerEnter2D(Collider2D other) 
+    // Phương thức để nhận điểm từ PlayerController
+    public void SetScore(int score)
+    {
+        finalScore += score;
+    }
+    // ▬ "On Tregger Enter 2D()" Method 
+    //       → with a "Delay" of "2 Seconds"
+    //      → to "Call" the "ReloadScene()" Method ▬
+    void OnTriggerEnter2D(Collider2D other) 
    {
         // ▼ "If" the "Player Hits" the "Ground" & "has Crushed" is "False" ▼
         if (other.tag == "Ground" && !hasCrushed)
@@ -66,6 +72,9 @@ public class CrushDetector : MonoBehaviour
         //      → from the "SceneManager" Class 
         //      → which will "Load" our "Level 1" Scene, 
         //      → with "Index 0" ▼
+
+        // Lưu điểm vào PlayerPrefs với key "FinalScore"
+        PlayerPrefs.SetInt("FinalScore", finalScore);
         SceneManager.LoadScene(0);
    }
 }

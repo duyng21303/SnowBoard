@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour
 	private GameManager gameManager;
 	private AudioManager audioManager;
 	private ScoreController scoreController;
+	private CrushDetector crushDetector;
 	bool isGrounded = true;
 	bool canMove = true;
 	bool hasSpun = false;
@@ -33,6 +34,7 @@ public class PlayerController : MonoBehaviour
 		gameManager = FindAnyObjectByType<GameManager>();
 		scoreController = FindAnyObjectByType<ScoreController>();
 		audioManager = FindAnyObjectByType<AudioManager>();
+        crushDetector = FindAnyObjectByType<CrushDetector>();
 	}
 
 	void Start()
@@ -65,7 +67,10 @@ public class PlayerController : MonoBehaviour
 			if (Mathf.Abs(totalSpin) >= 360f && !hasSpun)
 			{
 				var x = Mathf.Abs(totalSpin) / 360f;
-				gameManager.AddScore(100 * (int)x);
+                audioManager.PlayCoinSound();
+                crushDetector.SetScore(10 * (int)x);
+
+                gameManager.AddScore(10 * (int)x);
 				hasSpun = true;
 				currentSpeed = Mathf.Max(baseSpeed, currentSpeed - spinSpeedPenalty);
 			}
@@ -151,13 +156,17 @@ public class PlayerController : MonoBehaviour
 	{
 		if (collision.gameObject.CompareTag("Object"))
 		{
-			gameManager.AddScore(10);
+            audioManager.PlayCoinSound();
+            crushDetector.SetScore(10);
+            gameManager.AddScore(10);
 		}
 		if (collision.gameObject.CompareTag("Coin"))
 		{
 			Destroy(collision.gameObject);
 			audioManager.PlayCoinSound();
-			gameManager.AddScore(1);
+            crushDetector.SetScore(1);
+
+            gameManager.AddScore(1);
 		}
 	}
 }

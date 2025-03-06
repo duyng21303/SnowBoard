@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using UnityEngine;
 
@@ -17,7 +18,7 @@ public class GameManager : MonoBehaviour
 	{
 
 	}
-
+	
 	public void AddScore(int points)
 	{
 		score += points;

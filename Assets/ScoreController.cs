@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,7 +20,10 @@ public class ScoreController : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
+    public int GetScore()
+    {
+        return score;
+    }
     public void AddScore(int amount)
     {
         score += amount;
