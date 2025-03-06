@@ -18,4 +18,5 @@ public class AudioManager : MonoBehaviour
 	{
 		sfxAudioSource.PlayOneShot(coinClip);
 	}
+    
 }
