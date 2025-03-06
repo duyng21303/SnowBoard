@@ -18,7 +18,10 @@ public class CrushDetector : MonoBehaviour
     //      → to "Avoid Double Sounds & Particles Effect" 
     //      → when "Player Hits" the "Ground" ▼
     bool hasCrushed = false;
-
+    public int GetScore()
+    {
+        return finalScore;
+    }
     private int finalScore = 0; // Biến lưu điểm của player khi chết
 
     // Phương thức để nhận điểm từ PlayerController

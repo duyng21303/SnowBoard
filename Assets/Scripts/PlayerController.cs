@@ -18,22 +18,10 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float spinSpeedPenalty = 5f;
     [SerializeField] LayerMask groundLayer;
 
-	private GameManager gameManager;
-	private AudioManager audioManager;
-	private ScoreController scoreController;
-	private CrushDetector crushDetector;
-	bool isGrounded = true;
-	bool canMove = true;
-	bool hasSpun = false;
-	float totalSpin = 0f;
-	float lastAngle = 0f;
-    // Âm thanh khi nhảy và lộn vòng
-    [SerializeField] AudioClip jumpSound;
-    [SerializeField] AudioClip flipSound;
-
     private GameManager gameManager;
     private AudioManager audioManager;
     private ScoreController scoreController;
+    private CrushDetector crushDetector;
 
     bool isGrounded = true;
     bool canMove = true;
@@ -41,22 +29,18 @@ public class PlayerController : MonoBehaviour
     float totalSpin = 0f;
     float lastAngle = 0f;
 
-    float totalRotation = 0f;        // Tổng số độ đã xoay
-    float previousRotation = 0f;     // Lưu lại góc xoay trước đó
+    // Âm thanh khi nhảy và lộn vòng
+    [SerializeField] AudioClip jumpSound;
+    [SerializeField] AudioClip flipSound;
+
     float currentSpeed;
 
-	private void Awake()
-	{
-		gameManager = FindAnyObjectByType<GameManager>();
-		scoreController = FindAnyObjectByType<ScoreController>();
-		audioManager = FindAnyObjectByType<AudioManager>();
-        crushDetector = FindAnyObjectByType<CrushDetector>();
-	}
     private void Awake()
     {
         gameManager = FindAnyObjectByType<GameManager>();
         scoreController = FindAnyObjectByType<ScoreController>();
         audioManager = FindAnyObjectByType<AudioManager>();
+        crushDetector = FindAnyObjectByType<CrushDetector>();
     }
 
     void Start()
@@ -65,6 +49,7 @@ public class PlayerController : MonoBehaviour
         surfaceEffector2D = FindObjectOfType<SurfaceEffector2D>();
         audioSource = GetComponent<AudioSource>();  // Lấy AudioSource trên Player
         currentSpeed = baseSpeed;
+        lastAngle = transform.eulerAngles.z;
     }
 
     void Update()
@@ -73,12 +58,45 @@ public class PlayerController : MonoBehaviour
         {
             RotatePlayer();
             UpdateSpeed();
-            CheckFlip();  // Kiểm tra lộn vòng
-        }
 
-        if (canMove && isGrounded && Input.GetKeyDown(KeyCode.Space))
-        {
-            Jump();
+            // Cập nhật logic quay để tính spin và cộng điểm
+            if (!isGrounded)
+            {
+                float currentAngle = transform.eulerAngles.z;
+                float delta = Mathf.DeltaAngle(lastAngle, currentAngle);
+                totalSpin += delta;
+                lastAngle = currentAngle;
+
+                if (Mathf.Abs(totalSpin) >= 360f && !hasSpun)
+                {
+                    int spins = (int)(Mathf.Abs(totalSpin) / 360f);
+
+                    // Phát âm flip (nếu có)
+                    if (flipSound != null && audioSource != null)
+                    {
+                        audioSource.PlayOneShot(flipSound);
+                    }
+                    // Phát âm coin sound và cộng điểm cho mỗi vòng quay
+                    audioManager.PlayCoinSound();
+                    crushDetector.SetScore(10 * spins);
+                    gameManager.AddScore(10 * spins);
+
+                    hasSpun = true;
+                    currentSpeed = Mathf.Max(baseSpeed, currentSpeed - spinSpeedPenalty);
+                }
+            }
+            else
+            {
+                // Khi chạm đất thì reset lại các biến spin
+                totalSpin = 0f;
+                lastAngle = transform.eulerAngles.z;
+                hasSpun = false;
+            }
+
+            if (isGrounded && Input.GetKeyDown(KeyCode.Space))
+            {
+                Jump();
+            }
         }
     }
 
@@ -87,18 +105,9 @@ public class PlayerController : MonoBehaviour
         canMove = false;
     }
 
-			if (Mathf.Abs(totalSpin) >= 360f && !hasSpun)
-			{
-				var x = Mathf.Abs(totalSpin) / 360f;
-                audioManager.PlayCoinSound();
-                crushDetector.SetScore(10 * (int)x);
-
-                gameManager.AddScore(10 * (int)x);
-				hasSpun = true;
-				currentSpeed = Mathf.Max(baseSpeed, currentSpeed - spinSpeedPenalty);
-			}
     void Jump()
     {
+        // Reset vận tốc theo trục Y và áp dụng lực nhảy
         rb2d.linearVelocity = new Vector2(rb2d.linearVelocity.x, 0f);
         rb2d.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         isGrounded = false;
@@ -107,27 +116,6 @@ public class PlayerController : MonoBehaviour
         if (jumpSound != null && audioSource != null)
         {
             audioSource.PlayOneShot(jumpSound);
-        }
-    }
-
-    // Hàm kiểm tra và phát âm thanh khi lộn vòng
-    void CheckFlip()
-    {
-        float currentRotation = transform.eulerAngles.z;
-        float deltaRotation = Mathf.DeltaAngle(previousRotation, currentRotation);
-        totalRotation += deltaRotation;
-        previousRotation = currentRotation;
-
-        // Kiểm tra nếu đã lộn đủ 360 độ
-        if (Mathf.Abs(totalRotation) >= 360f)
-        {
-            totalRotation = 0f; // Reset lại tổng số độ đã xoay
-
-            // Phát âm thanh khi lộn vòng
-            if (flipSound != null && audioSource != null)
-            {
-                audioSource.PlayOneShot(flipSound);
-            }
         }
     }
 
@@ -179,30 +167,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-	private void OnCollisionEnter2D(Collision2D collision)
-	{
-		if (collision.gameObject.CompareTag("Ground"))
-		{
-			isGrounded = true;
-		}
-	}
-	private void OnTriggerEnter2D(Collider2D collision)
-	{
-		if (collision.gameObject.CompareTag("Object"))
-		{
-            audioManager.PlayCoinSound();
-            crushDetector.SetScore(10);
-            gameManager.AddScore(10);
-		}
-		if (collision.gameObject.CompareTag("Coin"))
-		{
-			Destroy(collision.gameObject);
-			audioManager.PlayCoinSound();
-            crushDetector.SetScore(1);
-
-            gameManager.AddScore(1);
-		}
-	}
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
@@ -215,12 +179,15 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Object"))
         {
+            audioManager.PlayCoinSound();
+            crushDetector.SetScore(10);
             gameManager.AddScore(10);
         }
         if (collision.gameObject.CompareTag("Coin"))
         {
             Destroy(collision.gameObject);
             audioManager.PlayCoinSound();
+            crushDetector.SetScore(1);
             gameManager.AddScore(1);
         }
     }

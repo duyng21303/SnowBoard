@@ -29,8 +29,12 @@ public class SnowmanController : MonoBehaviour
 
 			FindAnyObjectByType<PlayerController>().DisableControls();
 			GetComponent<AudioSource>().PlayOneShot(crushSFX);
-			Invoke("ReloadScene", loadDelay);
             var crush = collision.gameObject.GetComponent<CrushDetector>();
+
+            PlayerPrefs.SetInt("FinalScore", crush.GetScore()); 
+
+
+            Invoke("ReloadScene", loadDelay);
             crush.GetEffect();
         }
        
