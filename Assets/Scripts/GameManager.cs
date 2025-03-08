@@ -7,10 +7,11 @@ public class GameManager : MonoBehaviour
 	// Start is called once before the first execution of Update after the MonoBehaviour is created
 	[SerializeField] private TextMeshProUGUI scoreText;
 	public static ScoreController instance;
-	public int score = 0;
+	public int score;
 
 	void Start()
 	{
+		score = PlayerPrefs.GetInt("FinalScore", 0);
 		UpdateScore();
 	}
 
