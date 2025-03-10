@@ -13,26 +13,32 @@ public class CrushDetector : MonoBehaviour
     [SerializeField] float loadDelay = 0.5f;  // ◄◄ "1/2 Second" Delay ◄◄
     [SerializeField] ParticleSystem crushEffect;
     [SerializeField] AudioClip crushSFX;
-     
+
+    private int finalScore; // Biến lưu điểm của player khi chết
     // ▼ "Set Variable" 
     //      → to "Avoid Double Sounds & Particles Effect" 
     //      → when "Player Hits" the "Ground" ▼
     bool hasCrushed = false;
-    public int GetScore()
+
+	public void Start()
+	{
+        finalScore = PlayerPrefs.GetInt("FinalScore", 0);
+	}
+	public int GetScore()
     {
         return finalScore;
     }
-    private int finalScore = 0; // Biến lưu điểm của player khi chết
 
     // Phương thức để nhận điểm từ PlayerController
     public void SetScore(int score)
     {
         finalScore += score;
-    }
-    // ▬ "On Tregger Enter 2D()" Method 
-    //       → with a "Delay" of "2 Seconds"
-    //      → to "Call" the "ReloadScene()" Method ▬
-    void OnTriggerEnter2D(Collider2D other) 
+		PlayerPrefs.SetInt("FinalScore", score);
+	}
+	// ▬ "On Tregger Enter 2D()" Method 
+	//       → with a "Delay" of "2 Seconds"
+	//      → to "Call" the "ReloadScene()" Method ▬
+	void OnTriggerEnter2D(Collider2D other) 
    {
         // ▼ "If" the "Player Hits" the "Ground" & "has Crushed" is "False" ▼
         if (other.tag == "Ground" && !hasCrushed)
